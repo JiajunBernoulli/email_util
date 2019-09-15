@@ -1,6 +1,3 @@
-#!/usr/bin/python3
-# coding: utf-8
-
 import poplib
 from email.header import decode_header
 from email.parser import Parser
