@@ -53,8 +53,8 @@ def get_charset(msg):
 
 
 # 一些参数，从文件读取更加灵活
-from_email = "2159628184@qq.com"
-from_email_pwd = "wphotxuxctznebjc"
+from_email = "xxx@qq.com"
+from_email_pwd = "xxx"
 pop_server = "pop.qq.com"
 # 连接服务器
 server = poplib.POP3(pop_server)
